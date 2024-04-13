@@ -23,3 +23,9 @@ payload:
     "token": "eyJhbGciOiJIUzI1NiJ9.eyJleHBpcnlEYXRlIjoxNzEyOTg1MjcyMTk5LCJjcmVhdGVkQXQiOjE3MTI5ODQ2NzIxOTksInJvbGVzIjpbXSwiZW1haWwiOiJ2aXNoYWxAZ21haWwuY29tIn0.l75jirLaDlFBgiAVYS6zTMshJ3eHXqhXexGKtbZ5Z-c",
     "id":1
 }
+
+
+
+-> Integrated 3rd Party API for getting weather Details based on location.
+-> Implmented Authentication and authorization with JWT token
+-> Implmented Redis caching for faster data access.
